@@ -9,6 +9,14 @@
   },
   {
     "id": "post_03",
+    "type": "reel",
+    "title_slug": "chalre_chalre_mystic_soul",
+    "caption": "Tu saanwal phool kastoori... ye dhun rooh ko choo leti hai.\n\nAncient mystic anime vibes with Chalre Chalre Waal. A wandering soul under the crescent moon.\n\nSave this for your late night peace playlist.\n\n#chalrechalre #mysticanime #animeaesthetic #desiaesthetic",
+    "first_comment": "Ye gaana kis kis ko sukoon deta hai? Drop a 🌙 below",
+    "video_file": "reels/reel_03_chalre.mp4"
+  },
+  {
+    "id": "post_04",
     "type": "carousel",
     "tag": "ANIME LESSONS · 01",
     "title_slug": "5_anime_quotes_grown_up",
@@ -60,7 +68,7 @@
     ]
   },
   {
-    "id": "post_04",
+    "id": "post_05",
     "type": "carousel",
     "tag": "GHIBLI VIBES · 02",
     "title_slug": "why_ghibli_skies_heal",
