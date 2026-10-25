@@ -4,6 +4,7 @@ import json
 import datetime
 from carousel_builder import render_carousel_slides
 from poster import post_reel, post_carousel
+from auto_generator import check_and_replenish_queue
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CALENDAR_PATH = os.path.join(BASE_DIR, "calendar.json")
@@ -24,6 +25,12 @@ def main():
     print("AUTONOMOUS ANIME ENGINE: EXECUTING SCHEDULED POST")
     print(f"Timestamp: {datetime.datetime.now(datetime.timezone.utc).isoformat()}")
     print("=" * 60)
+
+    # 1. Replenish queue if low
+    try:
+        check_and_replenish_queue()
+    except Exception as e:
+        print(f"[PIPELINE] Warning replenishing queue: {e}")
 
     calendar = load_json(CALENDAR_PATH, [])
     history = load_json(HISTORY_PATH, [])
