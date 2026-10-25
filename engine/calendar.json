@@ -1,0 +1,114 @@
+[
+  {
+    "id": "post_02",
+    "type": "reel",
+    "title_slug": "barsaat_neon_resolve",
+    "caption": "Jab shor thumta hai, tab asal baatein samajh aati hain.\n\nLate night anime aesthetic for wandering minds. Earphones recommended.\n\nSave this for your late night vibes playlist.\n\n#animeaesthetic #indiesongs #latenightthoughts",
+    "first_comment": "Ye visual kis-kis ke dil ko chhoo gaya? Drop a 🌧️ below",
+    "video_file": "reels/reel_02_resolve.mp4"
+  },
+  {
+    "id": "post_03",
+    "type": "carousel",
+    "tag": "ANIME LESSONS · 01",
+    "title_slug": "5_anime_quotes_grown_up",
+    "caption": "5 anime quotes jo bachpan me normal lagti thi, par bade hokar har line chubhti hai.\n\nSwipe karke last wali quote zaroor padhna.\n\nSave this post for when you need quiet peace of mind.\n\n#animeaesthetic #animelessons #peaceofmind",
+    "first_comment": "Quote 4 kis-kis ki favorite hai? Tell me your thoughts 👇",
+    "slides": [
+      {
+        "num": "01 / 06",
+        "tag": "ANIME LESSONS · 01",
+        "title": "5 ANIME QUOTES<br>THAT HIT HARDER<br><span class='accent'>AS YOU GROW UP.</span>",
+        "body": "Lines we heard as kids, but only understood after life tested us.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "02 / 06",
+        "tag": "ITACHI UCHIHA",
+        "title": "\"People live their lives<br><span class='accent'>bound by what they accept.</span>\"",
+        "body": "Hum aksar un cheezon me atke rehte hain jo humne khud apne dimaag me sach maan li hain.<br><br>Reality tab badalti hai jab aap purani soch ko chhodna seekhte ho.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "03 / 06",
+        "tag": "MAKOTO SHINKAI",
+        "title": "\"A day comes when<br><span class='accent'>you stop looking back.</span>\"",
+        "body": "Aapko realize hota hai ki purani yaadein kitni bhi sundar hon, unme jeena aapke aane wale kal ko barbaad karta hai.<br><br>Letting go is peace.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "04 / 06",
+        "tag": "JIRAIYA",
+        "title": "\"A real warrior grows<br><span class='accent'>through understanding pain.</span>\"",
+        "body": "Dard aapko todne nahi aata. Wo sirf ye batane aata hai ki aapki purani limits ab aapke liye choti pad chuki hain.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "05 / 06",
+        "tag": "KEN KANEKI",
+        "title": "\"It's not that I can't feel.<br><span class='accent'>I just chose silence.</span>\"",
+        "body": "Jab aap har baat pe react karna band kar dete ho, log sochte hain aap badal gaye.<br><br>Par sach ye hai ki aapne apni energy bachani seekh li.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "06 / 06",
+        "tag": "THE REMINDER",
+        "title": "Save these<br><span class='accent'>5 lessons:</span>",
+        "body": "<div class='checklist'><div class='item'><span>✦</span> Question what you accept as reality.</div><div class='item'><span>✦</span> Stop living in chapters you finished.</div><div class='item'><span>✦</span> Pain is a teacher, not a prison.</div><div class='item'><span>✦</span> Choose peace over proving a point.</div></div><p class='cta-note'>Save this post for your quiet late-night reflections.</p>",
+        "swipe": "Save Post ⬇"
+      }
+    ]
+  },
+  {
+    "id": "post_04",
+    "type": "carousel",
+    "tag": "GHIBLI VIBES · 02",
+    "title_slug": "why_ghibli_skies_heal",
+    "caption": "Kyun Studio Ghibli ke aasmaan aur shaam dekhkar aisa lagta hai jaise hum ghar laut rahe hon?\n\nSwipe karke ye 4 thoughts zaroor padhna.\n\nSave this post for when you need quiet peace of mind.\n\n#animeaesthetic #ghiblivibes #latenightthoughts",
+    "first_comment": "Aapki all-time favorite Ghibli movie kaunsi hai? Comment karo 👇",
+    "slides": [
+      {
+        "num": "01 / 06",
+        "tag": "GHIBLI VIBES · 02",
+        "title": "WHY GHIBLI SKIES<br>FEEL LIKE<br><span class='accent'>LOST CHILDHOOD.</span>",
+        "body": "The psychology behind why nostalgic anime scenery heals your mental exhaustion.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "02 / 06",
+        "tag": "THE PACE",
+        "title": "Life was meant to be<br><span class='accent'>felt, not rushed.</span>",
+        "body": "Modern life me hum bas bhaag rahe hain. Ghibli hume yaad dilata hai ki train ki window se baahar dekhna bhi utna hi zaroori hai.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "03 / 06",
+        "tag": "SOLITUDE",
+        "title": "Quiet moments are<br><span class='accent'>not empty moments.</span>",
+        "body": "Akela baith kar chai peena ya hawa ki aawaz sunna akelapan nahi hota, wo apni aatma se milne ka waqt hota hai.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "04 / 06",
+        "tag": "SIMPLICITY",
+        "title": "Beauty is in the<br><span class='accent'>unnoticed details.</span>",
+        "body": "Patto par girti hui barish ki boondein, shaam ki narmi, kisi ka bina bole sath baithna. Real luxury simplicity me hai.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "05 / 06",
+        "tag": "HEALING",
+        "title": "You don't need answers<br><span class='accent'>to feel peace.</span>",
+        "body": "Har sawal ka jawab turant nahi milta. Kabhi kabhi bas aasmaan dekhkar saans lena kaafi hota hai.",
+        "swipe": "Swipe →"
+      },
+      {
+        "num": "06 / 06",
+        "tag": "REMEMBER THIS",
+        "title": "Save these<br><span class='accent'>4 reminders:</span>",
+        "body": "<div class='checklist'><div class='item'><span>✦</span> Slow down. Nothing is worth burning out.</div><div class='item'><span>✦</span> Protect your quiet moments.</div><div class='item'><span>✦</span> Joy lives in the simple details.</div><div class='item'><span>✦</span> Breathe deeply, your peace is sacred.</div></div><p class='cta-note'>Save this post to revisit whenever you feel overwhelmed.</p>",
+        "swipe": "Save Post ⬇"
+      }
+    ]
+  }
+]

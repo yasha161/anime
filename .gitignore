@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# OS / Temporary
+.DS_Store
+Thumbs.db
+*.log
+
+# Large media cache (reels/ is committed if < 100MB)
+*.tmp
+assets/test/
