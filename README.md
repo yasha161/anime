@@ -69,6 +69,20 @@ The GitHub Actions workflow triggers daily at **14:30 UTC (8:00 PM IST)** — th
 
 ---
 
+## 🎬 2D Vector Anime Sakuga Mandate (Permanent Rules)
+
+Every reel generated and posted by this engine must strictly follow:
+1. **100% Vector Anime Cels (`html-anime`):** Zero static AI photos, zero outsourced clips. All characters, hair strands, eyes, and robes are drawn as crisp SVG vector paths.
+2. **Song-Correlated Action:** Never leave the character standing still:
+   - **Build:** Hand reaching katana, hair whipping in wind, thumb popping tsuba guard with sparkle.
+   - **Climax / Beat Drop:** Dynamic cross-screen dash, diagonal speedlines, sweeping golden-cyan plasma slash arc, screen shake, shockwaves.
+   - **Resolve:** Low-angle hero stance, steel blade reflecting direct sunlight starburst flare.
+3. **Word-by-Word Active Karaoke:** 100% frame-accurate lyric sync with electric cyan active spring pop.
+4. **Zero Japanese Subtitles:** Clean Romanized Hindi/Punjabi subtitles only; no Japanese translation text underneath.
+5. **Daytime Summer Aesthetic:** Makoto Shinkai azure skies, towering billowing cumulus clouds, god rays, and floating sakura cherry blossom petals.
+
+---
+
 ## 🔐 GitHub Secrets Configured
 
 * `UPLOAD_POST_KEY`: Verified & Active (Upload-Post API Token)

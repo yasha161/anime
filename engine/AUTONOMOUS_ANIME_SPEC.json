@@ -1,0 +1,52 @@
+{
+  "system_version": "2.0.0",
+  "engine_name": "Autonomous 2D Vector Anime Sakuga Pipeline",
+  "channel": "@kavy.axstyle",
+  "saved_at": "2026-10-25T16:52:00+05:30",
+  "mandate": {
+    "zero_ai_photos": true,
+    "zero_static_poses": true,
+    "zero_japanese_kanji_subtitles": true,
+    "in_house_vector_cels_only": true,
+    "song_correlated_action": true
+  },
+  "mood_matrix": {
+    "high_energy_sakuga": {
+      "musical_cues": ["808 bass drops", "fast BPM", "drill kicks", "intense vocals"],
+      "visual_environment": "Daytime azure sky with golden sunbeams or stormy thunderclouds",
+      "choreography": [
+        "Shot 1 (Build): Hand to katana hilt, hair whipping in slipstream, thumb pops tsuba guard open with golden star sparkle",
+        "Shot 2 (Climax): High-velocity cross-screen dash, speedlines burst across 9:16 vertical frame, sweeping golden-cyan plasma slash arc, screen shake, shockwave particles",
+        "Shot 3 (Resolve): Low-angle heroic stance facing camera, drawn steel blade angled in foreground, blinding 8-point sunburst flare reflecting off blade edge"
+      ]
+    },
+    "mellow_peace_ghibli": {
+      "musical_cues": ["lo-fi beats", "acoustic guitar", "melodic vocals", "soft piano"],
+      "visual_environment": "Towering summer cumulus clouds, lush emerald hills, floating sakura cherry blossoms",
+      "choreography": [
+        "Shot 1 (Ambiance): Gentle wind blowing haori robes and long layered fringe hair, clouds billowing slowly",
+        "Shot 2 (Soul): Slow camera push-in on hero gaze, light breeze drifting petals across the frame",
+        "Shot 3 (Reflection): Peaceful horizon gaze, soft golden hour sun flare with specular rim light"
+      ]
+    },
+    "mystic_ancient_soul": {
+      "musical_cues": ["folk instruments", "mystic flute", "spiritual sufi vocals", "deep resonance"],
+      "visual_environment": "Ancient red Torii gate arch, twilight mountain ridge, rising spiritual fireflies/embers",
+      "choreography": [
+        "Shot 1 (Spiritual): Hero standing before ancient Torii gate, subtle rhythmic breathing cel animation",
+        "Shot 2 (Ascent): Floating glowing spiritual wisps swirling around the katana hilt",
+        "Shot 3 (Enlightenment): Blade drawn gently, radiant turquoise/amber aura emitting from the steel"
+      ]
+    }
+  },
+  "typography_spec": {
+    "format": "word_by_word_active_spring_pop",
+    "font_family": "Inter, system-ui, sans-serif",
+    "active_color": "#38bdf8",
+    "past_color": "#ffffff",
+    "inactive_color": "#94a3b8",
+    "active_glow": "0 0 24px rgba(56, 189, 248, 0.95), 0 0 45px rgba(2, 132, 199, 0.7)",
+    "container": "Translucent dark glass pill with cyan border, 16px blur",
+    "japanese_kanji_subtitle": false
+  }
+}

@@ -7,6 +7,7 @@ import datetime
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CALENDAR_PATH = os.path.join(BASE_DIR, "calendar.json")
 HISTORY_PATH = os.path.join(BASE_DIR, "history.json")
+SPEC_PATH = os.path.join(BASE_DIR, "AUTONOMOUS_ANIME_SPEC.json")
 
 def load_json(path, default):
     if os.path.exists(path):
@@ -116,6 +117,14 @@ STRICT BRAND RULES:
         return None
 
 def check_and_replenish_queue():
+    """
+    Checks the queue and ensures a healthy buffer of posts.
+    Enforces the Core 2D Anime Sakuga Mandate:
+      - ZERO AI still photos
+      - ZERO static characters
+      - ZERO Japanese Kanji subtitles under lyrics
+      - Song-correlated action (Sakuga slash on drops, wind/petals on mellows)
+    """
     calendar = load_json(CALENDAR_PATH, [])
     history = load_json(HISTORY_PATH, [])
     posted_ids = {h.get("id") for h in history}
