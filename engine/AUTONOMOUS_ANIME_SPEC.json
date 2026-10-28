@@ -68,5 +68,17 @@
     "active_glow": "0 0 24px rgba(56, 189, 248, 0.95), 0 0 45px rgba(2, 132, 199, 0.7)",
     "container": "Translucent dark glass pill with cyan border, 16px blur",
     "japanese_kanji_subtitle": false
+  },
+  "continuous_upgrade_mandate": {
+    "enabled": true,
+    "user_instruction": "bs memory me save rakhna aapne ko ise bhi upgrade karna hai next",
+    "saved_at": "2026-10-28T06:21:00+05:30",
+    "next_level_targets": [
+      "Natural eye blinking cycles and pupil dilation on beat drops",
+      "Multi-harmonic cloth and physics simulation (secondary fabric waves & inertial lag)",
+      "4-plane 2.5D atmospheric parallax (foreground bokeh, character cel, midground architecture, background sky)",
+      "Cinematic dynamic transitions (whip pans with motion blur & object match cuts)",
+      "Locked 25-35s runtime standard with 6-7 shot narrative curiosity escalation"
+    ]
   }
 }

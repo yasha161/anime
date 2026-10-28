@@ -61,3 +61,30 @@ Every 25–35s reel follows an escalating visual arc designed to maximize viewer
 - **Animated Accent:** Active word features an animated electric pink indicator bar below (`#f472b6`).
 - **Clean Layout:** Centered translucent dark glass pill (`background: rgba(7, 11, 20, 0.85)`), border in cyan, clean word spacing (`margin: 0 8px`).
 - **Zero Japanese Translation:** Keeps all focus on clean lyrical immersion in Romanized Hindi/Urdu.
+
+---
+
+## 🚀 6. CONTINUOUS UPGRADE DIRECTIVE (Future Production Roadmap)
+
+> **Core Production Philosophy:** *"Aapne ko ise bhi upgrade karna hai next"*  
+> Har nayi video pichhli video se visual detailing, curiosity hook, aur animation smoothness me ek step aage honi chahiye.
+
+### Priority Upgrade Targets for Next Production Cycle:
+1. **Advanced Facial Micro-Expressions & Blinking:**
+   - Add natural blink cycles (every 2.5–3.5s) using parabolic eyelid bezier curves.
+   - Subtle pupil dilation/contraction on beat drops and emotional vocal moments.
+   - Micro-expressions: brow twitches, gentle smiles, and expressive gaze tracking.
+2. **Multi-Harmonic Cloth & Physics Rigging:**
+   - Multi-wave fabric physics for trench coats, scarves, and robes (combining fundamental frequency + 2nd harmonic breeze with dampening).
+   - Realistic secondary inertial lag on belts, bag straps, tassels, and hair locks when characters stop or pivot.
+3. **Multi-Plane 2.5D Atmospheric Parallax:**
+   - 4-layer depth separation:
+     - *Layer 1 (Foreground Blur):* Out-of-focus drifting leaves/rain droplets right in front of camera.
+     - *Layer 2 (Focal Plane):* Sharply detailed vector character with cel shading and rim lighting.
+     - *Layer 3 (Midground):* Train coaches, platform lamps, steam columns, architecture.
+     - *Layer 4 (Background):* Sky gradients, distant skyline silhouettes, and celestial lights.
+4. **Cinematic Camera Transitions (Whip Pan & Match Cuts):**
+   - Whip pans between intense beats with dynamic speed blur streaks.
+   - Object match cuts (e.g., ticking pocket watch transition into locomotive spinning wheel).
+5. **Runtime Standard (25–35s Locked):**
+   - Keep standard reels strictly between 25.0s and 35.0s (625–875 frames @ 25fps) across 6–7 cinematic shots. Zero rushed cuts.
