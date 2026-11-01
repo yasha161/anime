@@ -12,9 +12,9 @@ def get_credentials():
     profile = os.environ.get("UPLOAD_POST_PROFILE", "default")
     return key, profile
 
-def post_reel(video_path, caption, first_comment=""):
+def post_reel(video_path, caption, first_comment="", scheduled_date=None, timezone="Asia/Kolkata"):
     key, profile = get_credentials()
-    print(f"[POSTER] Uploading Reel: {video_path}")
+    print(f"[POSTER] Uploading Reel: {video_path} (Scheduled: {scheduled_date or 'Immediate'})")
     
     cmd = [
         "curl", "-s", "-X", "POST", f"{API_BASE}/upload",
@@ -27,9 +27,26 @@ def post_reel(video_path, caption, first_comment=""):
         "-F", f"first_comment={first_comment}",
         "-F", "async_upload=true"
     ]
-    res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
-    print(f"[POSTER] Response: {res.stdout}")
-    data = json.loads(res.stdout)
+    if scheduled_date:
+        cmd.extend([
+            "-F", f"scheduled_date={scheduled_date}",
+            "-F", f"timezone={timezone}"
+        ])
+    data = None
+    for attempt in range(1, 4):
+        res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
+        print(f"[POSTER] Response (attempt {attempt}): {res.stdout}")
+        try:
+            data = json.loads(res.stdout)
+            break
+        except Exception:
+            print(f"[POSTER] Non-JSON response, retrying in 5 seconds...")
+            time.sleep(5)
+            
+    if not data:
+        raise Exception(f"Upload failed after 3 attempts: {res.stdout}")
+    if scheduled_date:
+        return data
     request_id = data.get("request_id")
     if not request_id:
         raise Exception(f"Upload failed: {res.stdout}")
@@ -51,9 +68,19 @@ def post_carousel(photo_paths, caption, first_comment=""):
     for p in photo_paths:
         cmd.extend(["-F", f"photos[]=@{p}"])
 
-    res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
-    print(f"[POSTER] Response: {res.stdout}")
-    data = json.loads(res.stdout)
+    data = None
+    for attempt in range(1, 4):
+        res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
+        print(f"[POSTER] Response (attempt {attempt}): {res.stdout}")
+        try:
+            data = json.loads(res.stdout)
+            break
+        except Exception:
+            print(f"[POSTER] Non-JSON response, retrying in 5 seconds...")
+            time.sleep(5)
+            
+    if not data:
+        raise Exception(f"Upload failed after 3 attempts: {res.stdout}")
     request_id = data.get("request_id")
     if not request_id:
         raise Exception(f"Upload failed: {res.stdout}")

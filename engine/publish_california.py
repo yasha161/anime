@@ -10,14 +10,14 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 VIDEO_PATH = "D:/motions/anime_repo/engine/reels/reel_california_love.mp4"
 CAPTION = (
-    "Assi boote California laaye ne... 🌴🕶️🚗\n\n"
-    "Ho gaddi kaali vich baithi naar gori gori akh ni! "
-    "Cheema Y x Gur Sidhu chartbuster 'California Love' reimagined as a hilarious 2D anime road trip! "
-    "When Rhea pops bubblegum right into the windshield and Cheema's swagger shades can't survive the pothole 😂💀\n\n"
-    "Which anime reaction was your favorite? Comment below! 👇🔥\n\n"
+    "Assi boote California laaye ne... 🌴🕶️🚗💨\n\n"
+    "Cheema Y x Gur Sidhu chartbuster 'California Love' reimagined in authentic 2D anime style! "
+    "From cruising the Pacific Coast Highway in a red convertible to dropping 21 on the Blackjack felt, "
+    "American dollars raining in Dubai, and spinning the gold keys down Beverly Hills at night! 😂🔥\n\n"
+    "Which shot was your favorite? Comment below! 👇✨\n\n"
     "#californialove #cheemay #gursidhu #punjabisongs #animefunny #2danimation #desianime #reelsindia #animeaesthetic #remotion"
 )
-FIRST_COMMENT = "Cheema's sunglasses slipping vs Rhea's bubblegum pop 😂 What song should we anime-remix next? Drop it below! 👇✨"
+FIRST_COMMENT = "American dollar kamaai jaane aa, Khulla kharchan sohniye Dubai jaane aa! 💸 What Punjabi vibe track should we anime next? Drop your favorite song below! 👇🔥"
 
 def main():
     if not os.path.exists(VIDEO_PATH):
