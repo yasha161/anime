@@ -24,9 +24,10 @@ def main():
         print(f"Error: Video file not found at {VIDEO_PATH}")
         sys.exit(1)
         
-    print(f"[PUBLISHER] Publishing Tu Kisi Aur Ka Sad 2D Anime Reel to Instagram...")
-    result = post_reel(VIDEO_PATH, CAPTION, FIRST_COMMENT)
-    print(f"[PUBLISHER] Upload result: {json.dumps(result, indent=2)}")
+    print(f"[PUBLISHER] Scheduling Tu Kisi Aur Ka Sad 2D Anime Reel for Nov 1 at 18:30 IST...")
+    scheduled_date = "2026-11-01T13:00:00Z"
+    result = post_reel(VIDEO_PATH, CAPTION, FIRST_COMMENT, scheduled_date=scheduled_date, timezone="Asia/Kolkata")
+    print(f"[PUBLISHER] Schedule result: {json.dumps(result, indent=2)}")
     
     post_url = result.get("post_url")
     post_id = result.get("post_id")

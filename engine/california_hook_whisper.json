@@ -1,0 +1,405 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.92,
+    "text": " Lokki tamagande yafagantu yafi hi masibuti kali for ni alaine",
+    "words": [
+      {
+        "word": " Lokki",
+        "start": 0.0,
+        "end": 0.84
+      },
+      {
+        "word": " tamagande",
+        "start": 0.84,
+        "end": 1.44
+      },
+      {
+        "word": " yafagantu",
+        "start": 1.44,
+        "end": 2.32
+      },
+      {
+        "word": " yafi",
+        "start": 2.32,
+        "end": 2.64
+      },
+      {
+        "word": " hi",
+        "start": 2.64,
+        "end": 2.78
+      },
+      {
+        "word": " masibuti",
+        "start": 2.78,
+        "end": 3.4
+      },
+      {
+        "word": " kali",
+        "start": 3.4,
+        "end": 3.82
+      },
+      {
+        "word": " for",
+        "start": 3.82,
+        "end": 4.14
+      },
+      {
+        "word": " ni",
+        "start": 4.14,
+        "end": 4.4
+      },
+      {
+        "word": " alaine",
+        "start": 4.4,
+        "end": 4.92
+      }
+    ]
+  },
+  {
+    "start": 4.92,
+    "end": 9.78,
+    "text": " Aonokki tamagande yafagantu yafi hi masibuti nani kuvarig",
+    "words": [
+      {
+        "word": " Aonokki",
+        "start": 4.92,
+        "end": 6.18
+      },
+      {
+        "word": " tamagande",
+        "start": 6.18,
+        "end": 6.64
+      },
+      {
+        "word": " yafagantu",
+        "start": 6.64,
+        "end": 7.7
+      },
+      {
+        "word": " yafi",
+        "start": 7.7,
+        "end": 8.02
+      },
+      {
+        "word": " hi",
+        "start": 8.02,
+        "end": 8.26
+      },
+      {
+        "word": " masibuti",
+        "start": 8.26,
+        "end": 8.8
+      },
+      {
+        "word": " nani",
+        "start": 8.8,
+        "end": 9.16
+      },
+      {
+        "word": " kuvarig",
+        "start": 9.16,
+        "end": 9.78
+      }
+    ]
+  },
+  {
+    "start": 10.700000000000001,
+    "end": 14.18,
+    "text": " Havchyeche vutta jatadinde kise nuna vakitabhish hain",
+    "words": [
+      {
+        "word": " Havchyeche",
+        "start": 10.700000000000001,
+        "end": 11.54
+      },
+      {
+        "word": " vutta",
+        "start": 11.54,
+        "end": 11.8
+      },
+      {
+        "word": " jatadinde",
+        "start": 11.8,
+        "end": 12.44
+      },
+      {
+        "word": " kise",
+        "start": 12.44,
+        "end": 12.8
+      },
+      {
+        "word": " nuna",
+        "start": 12.8,
+        "end": 13.12
+      },
+      {
+        "word": " vakitabhish",
+        "start": 13.12,
+        "end": 14.04
+      },
+      {
+        "word": " hain",
+        "start": 14.04,
+        "end": 14.18
+      }
+    ]
+  },
+  {
+    "start": 14.18,
+    "end": 15.88,
+    "text": " Aote rakde yaakini",
+    "words": [
+      {
+        "word": " Aote",
+        "start": 14.18,
+        "end": 14.56
+      },
+      {
+        "word": " rakde",
+        "start": 14.56,
+        "end": 15.02
+      },
+      {
+        "word": " yaakini",
+        "start": 15.02,
+        "end": 15.88
+      }
+    ]
+  },
+  {
+    "start": 15.88,
+    "end": 21.34,
+    "text": " Sarkal chuna kama karbada mudda thadu partina mele dina matini",
+    "words": [
+      {
+        "word": " Sarkal",
+        "start": 15.88,
+        "end": 17.16
+      },
+      {
+        "word": " chuna",
+        "start": 17.16,
+        "end": 17.52
+      },
+      {
+        "word": " kama",
+        "start": 17.52,
+        "end": 17.92
+      },
+      {
+        "word": " karbada",
+        "start": 17.92,
+        "end": 18.5
+      },
+      {
+        "word": " mudda",
+        "start": 18.5,
+        "end": 18.96
+      },
+      {
+        "word": " thadu",
+        "start": 18.96,
+        "end": 19.34
+      },
+      {
+        "word": " partina",
+        "start": 19.34,
+        "end": 19.98
+      },
+      {
+        "word": " mele",
+        "start": 19.98,
+        "end": 20.28
+      },
+      {
+        "word": " dina",
+        "start": 20.28,
+        "end": 20.6
+      },
+      {
+        "word": " matini",
+        "start": 20.6,
+        "end": 21.34
+      }
+    ]
+  },
+  {
+    "start": 21.34,
+    "end": 25.24,
+    "text": " Amerikal et dal de rek mai jane hakula kachin",
+    "words": [
+      {
+        "word": " Amerikal",
+        "start": 21.34,
+        "end": 22.56
+      },
+      {
+        "word": " et",
+        "start": 22.56,
+        "end": 22.7
+      },
+      {
+        "word": " dal",
+        "start": 22.7,
+        "end": 22.86
+      },
+      {
+        "word": " de",
+        "start": 22.86,
+        "end": 23.04
+      },
+      {
+        "word": " rek",
+        "start": 23.04,
+        "end": 23.14
+      },
+      {
+        "word": " mai",
+        "start": 23.14,
+        "end": 23.64
+      },
+      {
+        "word": " jane",
+        "start": 23.64,
+        "end": 23.94
+      },
+      {
+        "word": " hakula",
+        "start": 23.94,
+        "end": 24.64
+      },
+      {
+        "word": " kachin",
+        "start": 24.64,
+        "end": 25.24
+      }
+    ]
+  },
+  {
+    "start": 25.24,
+    "end": 26.98,
+    "text": " Sune eda bhai jane ha",
+    "words": [
+      {
+        "word": " Sune",
+        "start": 25.24,
+        "end": 25.62
+      },
+      {
+        "word": " eda",
+        "start": 25.62,
+        "end": 26.04
+      },
+      {
+        "word": " bhai",
+        "start": 26.04,
+        "end": 26.24
+      },
+      {
+        "word": " jane",
+        "start": 26.24,
+        "end": 26.68
+      },
+      {
+        "word": " ha",
+        "start": 26.68,
+        "end": 26.98
+      }
+    ]
+  },
+  {
+    "start": 26.98,
+    "end": 29.66,
+    "text": " Shadde na tunda bello kahi janne ha",
+    "words": [
+      {
+        "word": " Shadde",
+        "start": 26.98,
+        "end": 27.88
+      },
+      {
+        "word": " na",
+        "start": 27.88,
+        "end": 28.02
+      },
+      {
+        "word": " tunda",
+        "start": 28.02,
+        "end": 28.34
+      },
+      {
+        "word": " bello",
+        "start": 28.34,
+        "end": 28.68
+      },
+      {
+        "word": " kahi",
+        "start": 28.68,
+        "end": 29.04
+      },
+      {
+        "word": " janne",
+        "start": 29.04,
+        "end": 29.5
+      },
+      {
+        "word": " ha",
+        "start": 29.5,
+        "end": 29.66
+      }
+    ]
+  },
+  {
+    "start": 29.66,
+    "end": 32.44,
+    "text": " Khar na me zal na mingati lehi janne ha",
+    "words": [
+      {
+        "word": " Khar",
+        "start": 29.66,
+        "end": 30.02
+      },
+      {
+        "word": " na",
+        "start": 30.02,
+        "end": 30.2
+      },
+      {
+        "word": " me",
+        "start": 30.2,
+        "end": 30.36
+      },
+      {
+        "word": " zal",
+        "start": 30.36,
+        "end": 30.66
+      },
+      {
+        "word": " na",
+        "start": 30.66,
+        "end": 30.86
+      },
+      {
+        "word": " mingati",
+        "start": 30.86,
+        "end": 31.36
+      },
+      {
+        "word": " lehi",
+        "start": 31.36,
+        "end": 31.72
+      },
+      {
+        "word": " janne",
+        "start": 31.72,
+        "end": 32.18
+      },
+      {
+        "word": " ha",
+        "start": 32.18,
+        "end": 32.44
+      }
+    ]
+  }
+]
