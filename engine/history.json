@@ -46,5 +46,22 @@
     "published_at": "2026-10-31T01:55:51.025638+00:00",
     "post_url": "https://www.instagram.com/reel/DfJBRgLCUUt/",
     "post_id": "17877179847584657"
+  },
+  {
+    "id": "post_tu_kisi_aur_ka_01",
+    "type": "reel",
+    "title_slug": "tu_kisi_aur_ka_sad_anime_reel",
+    "published_at": "2026-11-01T03:17:26.354392+00:00",
+    "post_url": "https://www.instagram.com/reels/",
+    "post_id": "pending"
+  },
+  {
+    "id": "post_aujla_softly_01",
+    "type": "reel",
+    "title_slug": "karan_aujla_softly_anime_reel",
+    "published_at": "2026-11-01T03:36:25.084206+00:00",
+    "scheduled_for": "2026-11-02T18:30:00+05:30",
+    "post_url": "https://www.instagram.com/reels/",
+    "post_id": "b50746c6dbe64cceb5127453df91c712"
   }
 ]
