@@ -229,7 +229,7 @@ export const BigTechToolsExposed16x9: React.FC = () => {
         loop
       />
       {isChunkCut && (
-        <Audio src={staticFile("audio/pop.mp3")} volume={0.12} />
+        <Audio src={staticFile("audio/pop.wav")} volume={0.12} />
       )}
 
       {/* ─── 2. Paper Grain / Dot Texture ─── */}
